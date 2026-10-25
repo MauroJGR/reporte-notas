@@ -1,3 +1,13 @@
+# TP Programación I
+
+Integrantes
+
+Argentieri, Mauro  
+Bosio, Ignacio  
+Maldonado, Agustín  
+Pisani, Alejandro  
+Suxo Morales, Nahuel  
+
 # Reporte de notas en Excel
 
 Proyecto de consola para Python 3.10 o superior. Permite cargar alumnos con
@@ -16,7 +26,7 @@ python -m venv .venv
 Activación en Windows (CMD):
 
 ```bat
-.venv\Scripts\activate
+.venv\Scripts\activate.bat
 ```
 
 Activación en Windows (PowerShell):
