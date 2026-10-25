@@ -16,7 +16,7 @@ python -m venv .venv
 Activación en Windows (CMD):
 
 ```bat
-.venv\Scripts\activate
+.venv\Scripts\activate.bat
 ```
 
 Activación en Windows (PowerShell):
